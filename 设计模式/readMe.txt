@@ -1,0 +1,1 @@
+这个文件夹中所有的笔记，都在D:\phpStudy\PHPTutorial\WWW\index\01\pattern目录中！
